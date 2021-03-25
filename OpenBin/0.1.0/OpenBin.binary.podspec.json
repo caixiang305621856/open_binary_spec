@@ -18,11 +18,12 @@
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "OpenBin1/Classes/**/*",
+  "source_files": "bin_OpenBin_0.1.0/Headers/*",
   "dependencies": {
     "FMDB": [
 
     ]
   },
-  "vendored_frameworks": "OpenBin.framework"
+  "public_header_files": "bin_OpenBin_0.1.0/Headers/*.h",
+  "vendored_libraries": "bin_OpenBin_0.1.0/*.a"
 }
