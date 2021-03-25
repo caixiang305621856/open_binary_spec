@@ -1,0 +1,23 @@
+{
+  "name": "OpenBin",
+  "version": "0.1.0",
+  "summary": "A short description of OpenBin.",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/caixiang305621856/OpenBin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "616704162@qq.com": "caix@mail.open.cn"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/OpenBin/0.1.0/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "OpenBin1/Classes/**/*",
+  "vendored_frameworks": "OpenBin.framework"
+}
