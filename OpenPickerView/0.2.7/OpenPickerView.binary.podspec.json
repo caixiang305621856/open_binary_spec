@@ -18,10 +18,43 @@
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "OpenPickerViewLib/Classes/**/*",
-  "resources": [
-    "OpenPickerView.framework/Resources/*.xib",
-    "OpenPickerView.framework/Versions/A/Resources/*.xib"
-  ],
-  "vendored_frameworks": "OpenPickerView.framework"
+  "source_files": "bin_OpenPickerView_0.2.7/Headers/*",
+  "resources": "bin_OpenPickerView_0.2.7/Resources/*",
+  "dependencies": {
+    "OCBarrage": [
+      "1.0.5"
+    ],
+    "ZHSement": [
+      "0.1.2"
+    ],
+    "CXTextView": [
+      "0.1.6"
+    ],
+    "Toast": [
+      "4.0.0"
+    ],
+    "XZKeychainItemWrapper": [
+      "1.3"
+    ],
+    "TZImagePickerController": [
+      "3.2.3"
+    ],
+    "AliyunOSSiOS": [
+      "2.10.8"
+    ],
+    "GPUImage": [
+      "0.1.7"
+    ],
+    "SensorsAnalyticsSDK": [
+      "2.5.1"
+    ],
+    "JXTAlertManager": [
+      "1.0.2"
+    ],
+    "UIAlertView-Blocks": [
+      "1.0"
+    ]
+  },
+  "public_header_files": "bin_OpenPickerView_0.2.7/Headers/*.h",
+  "vendored_libraries": "bin_OpenPickerView_0.2.7/*.a"
 }
