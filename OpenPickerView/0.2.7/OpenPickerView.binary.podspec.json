@@ -19,9 +19,9 @@
     "ios": "9.0"
   },
   "source_files": "OpenPickerViewLib/Classes/**/*",
-  "vendored_frameworks": "OpenPickerView.framework",
   "resources": [
-    "OpenPickerView.framework/Resources/*.bundle",
-    "OpenPickerView.framework/Versions/A/Resources/*.bundle"
-  ]
+    "OpenPickerView.framework/Resources/*.xib",
+    "OpenPickerView.framework/Versions/A/Resources/*.xib"
+  ],
+  "vendored_frameworks": "OpenPickerView.framework"
 }
