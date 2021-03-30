@@ -16,7 +16,7 @@
     "ios": "8.0"
   },
   "source": {
-    "http": "http://localhost:8080/frameworks/OCBarrage/1.0.5/zip",
+    "http": "http://10.98.24.83:8080/frameworks/OCBarrage/1.0.5/zip",
     "type": "zip"
   },
   "source_files": "bin_OCBarrage_1.0.5/Headers/*",
