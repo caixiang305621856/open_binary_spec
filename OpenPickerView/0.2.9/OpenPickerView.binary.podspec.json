@@ -1,0 +1,57 @@
+{
+  "name": "OpenPickerView",
+  "version": "0.2.9",
+  "summary": "选择器",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n TODO: 时间 事件 选择器.",
+  "homepage": "https://gitee.com/caixiang19901217/OpenPickerView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "616704162@qq.com": "caix@mail.open.cn"
+  },
+  "source": {
+    "http": "http://l10.98.24.83:8080/frameworks/OpenPickerView/0.2.9/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "bin_OpenPickerView_0.2.9/Headers/*",
+  "resources": "bin_OpenPickerView_0.2.9/Resources/*",
+  "dependencies": {
+    "ZHSement": [
+      "0.1.2"
+    ],
+    "CXTextView": [
+      "0.1.6"
+    ],
+    "Toast": [
+      "4.0.0"
+    ],
+    "XZKeychainItemWrapper": [
+      "1.3"
+    ],
+    "TZImagePickerController": [
+      "3.2.3"
+    ],
+    "AliyunOSSiOS": [
+      "2.10.8"
+    ],
+    "GPUImage": [
+      "0.1.7"
+    ],
+    "SensorsAnalyticsSDK": [
+      "2.5.1"
+    ],
+    "JXTAlertManager": [
+      "1.0.2"
+    ],
+    "UIAlertView-Blocks": [
+      "1.0"
+    ]
+  },
+  "public_header_files": "bin_OpenPickerView_0.2.9/Headers/*.h",
+  "vendored_libraries": "bin_OpenPickerView_0.2.9/*.a"
+}
